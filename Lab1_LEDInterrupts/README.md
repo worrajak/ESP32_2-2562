@@ -1,5 +1,5 @@
 
-![ScreenShot](https://github.com/worrajak/ESP32_2-2562/blob/master/images.jpeg?raw=true)
+![ScreenShot](https://github.com/worrajak/ESP32_2-2562/blob/master/Lab1_LEDInterrupts/SchematicLab1.jpg?raw=true)
 
 Code 
 
