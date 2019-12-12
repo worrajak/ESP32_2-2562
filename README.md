@@ -1,11 +1,9 @@
 # ESP32_2-2562
 
 
-![ScreenShot](https://github.com/worrajak/PICmodbus/blob/master/Modbus002.jpg?raw=true)
+![ScreenShot](https://github.com/worrajak/ESP32_2-2562/blob/master/images.jpeg?raw=true)
 
-1.Modbus master 
-
-PIC18F458 configuration 
+ESP32 pinout 
 
 ```
 
