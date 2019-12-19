@@ -3,6 +3,10 @@
 ESP32 pinout 
 ![ScreenShot](https://github.com/worrajak/ESP32_2-2562/blob/master/images.jpeg?raw=true)
 
+![ScreenShot](https://github.com/worrajak/ESP32_2-2562/blob/master/ESP32Lolin.jpg?raw=true)
+
+
+
 See the ESP32 Datasheet for information on ESP32 chips and the ESP32-PICO-D4 Datasheet for information on the SiP module.
 
 * Processors:
