@@ -5,16 +5,16 @@ ESP32 pinout
 
 See the ESP32 Datasheet for information on ESP32 chips and the ESP32-PICO-D4 Datasheet for information on the SiP module.
 
-Processors:
-Main processor: Tensilica Xtensa 32-bit LX6 microprocessor
-Cores: 2 or 1 (depending on variation)
-All chips in the ESP32 series are dual-core except for ESP32-S0WD, which is single-core.
-Clock frequency: up to 240 MHz
-Performance: up to 600 DMIPS
-Ultra low power co-processor: allows you to do ADC conversions, computation, and level thresholds while in deep sleep.
-Wireless connectivity:
-Wi-Fi: 802.11 b/g/n/e/i (802.11n @ 2.4 GHz up to 150 Mbit/s)
-Bluetooth: v4.2 BR/EDR and Bluetooth Low Energy (BLE)
+* Processors:
+- Main processor: Tensilica Xtensa 32-bit LX6 microprocessor
+- Cores: 2 or 1 (depending on variation)
+- All chips in the ESP32 series are dual-core except for ESP32-S0WD, which is single-core.
+- Clock frequency: up to 240 MHz
+- Performance: up to 600 DMIPS
+- Ultra low power co-processor: allows you to do ADC conversions, computation, and level thresholds while in deep sleep.
+* Wireless connectivity:
+- Wi-Fi: 802.11 b/g/n/e/i (802.11n @ 2.4 GHz up to 150 Mbit/s)
+- Bluetooth: v4.2 BR/EDR and Bluetooth Low Energy (BLE)
 Memory:
 Internal memory:
 ROM: 448 KiB
