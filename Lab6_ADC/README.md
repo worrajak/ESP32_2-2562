@@ -15,6 +15,9 @@ There are other more advanced functions to use with the ADC pins that can be use
 - adcAttachPin(pin): Attach a pin to ADC (also clears any other analog mode that could be on). Returns TRUE or FALSE result.
 - adcStart(pin), adcBusy(pin) and resultadcEnd(pin): starts an ADC convertion on attached pin’s bus. Check if conversion on the pin’s ADC bus is currently running (returns TRUE or FALSE). Get the result of the conversion: returns 16-bit integer.
 
+
+![ScreenShot](https://i1.wp.com/randomnerdtutorials.com/wp-content/uploads/2019/05/Analog_Input_Potentiometer-700px.jpg?raw=true)
+
 Code
 ```
 // Potentiometer is connected to GPIO 34 (Analog ADC1_CH6) 
