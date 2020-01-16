@@ -3,6 +3,8 @@ PWM Code
 
 https://circuits4you.com/2018/12/31/esp32-pwm-example/
 
+![ScreenShot](https://circuits4you.com/wp-content/uploads/2017/12/pwm.gif?raw=true)
+
 ```
 /*
  * Copyright (c) 2018, circuits4you.com
